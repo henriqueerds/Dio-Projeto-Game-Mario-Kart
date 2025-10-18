@@ -101,3 +101,32 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+# 🏎️ Mario Kart Terminal Racer
+
+Um jogo de corrida em terminal inspirado no universo Mario Kart, desenvolvido em Node.js. Escolha entre personagens clássicos e compita em corridas emocionantes com mecânicas estratégicas baseadas em dados e atributos.
+
+## 🎮 Sobre
+
+Reviva a nostalgia do Mario Kart diretamente no seu terminal! Este projeto oferece uma experiência de corrida única onde cada personagem possui habilidades distintas e cada corrida é uma nova aventura.
+
+## ✨ Funcionalidades
+
+- **6 Personagens Icônicos**: Mario, Luigi, Peach, Yoshi, Bowser e Donkey Kong
+- **Sistema de Atributos**: Velocidade, Manobrabilidade e Poder únicos para cada personagem
+- **Mecânicas Diversas**: Retas, curvas e confrontos estratégicos
+- **Gameplay por Rodadas**: 5 rodadas emocionantes por corrida
+- **Interface Interativa**: Menu de seleção e feedback visual detalhado
+
+## 🚀 Tecnologias
+
+- **Node.js** - Runtime JavaScript
+- **Readline** - Interface de entrada/saída no terminal
+- **JavaScript ES6+** - Código moderno e limpo
+
+## 📦 Instalação
+
+```bash
+git clone https://github.com/seu-usuario/mario-kart-terminal.git
+cd mario-kart-terminal
+node src/index.js
